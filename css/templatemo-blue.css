@@ -24,6 +24,11 @@ html, body {
   vertical-align: baseline;
 }
 
+body{
+  background-image: url(../images/grade2.jpg);
+
+}
+
 html {
     -webkit-font-smoothing: antialiased;
 }
